@@ -1,17 +1,23 @@
-# Welcome to MkDocs
+# Nuit de L'info 2023
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Challenges de Cybersécurité
 
-## Commands
+Cette page a été crééer dans le cadre de la Nuit de l'Info 2023.
+Les étudiants de l'option SISR (Solutions d'Infrastructure Système et Réseau) des lycées Fulbert (Chartres), Paul Louis Courrier (Tours) et Notre Dame de la Riche (Chambray Les Tours) participent à différents challenges tout au long de cette nuit de l'info.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Pour commencer
 
-## Project layout
+Ouvrez vos postes de travail avec le compte fourni par l'enseignant.
+Vous disposez d'une machine virtuelle Kali Linux.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+| Équipe      | Adresse IP    |
+|-------------|---------------|
+| Équipe A    | 172.16.78.101  |
+| Équipe B    | 172.16.78.102   |
+| Équipe C    | 172.16.78.103   |
+| Équipe D    | 172.16.78.104  |
+
+
+## Lots
+
+A découvrir à la fin de la nuit.
