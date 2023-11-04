@@ -2,7 +2,7 @@
 
 ## Challenges de Cybersécurité
 
-Cette page a été créée dans le cadre de la Nuit de l'Info 2023. Les étudiants de l'option SISR (Solutions d'Infrastructure Système et Réseau) des lycées Fulbert (Chartres), Paul Louis Courrier (Tours), et Notre Dame de la Riche (Chambray Les Tours) participent à différents challenges tout au long de cette nuit de l'info.
+Cette page a été créée dans le cadre de la Nuit de l'Info 2023. Les étudiants de l'option SISR (Solutions d'Infrastructure Systèmes et Réseaux) des lycées Fulbert (Chartres), Paul-Louis Courier (Tours), et Sainte Marguerite (Chambray Les Tours) participent à différents challenges tout au long de cette nuit de l'info.
 
 ## Pour commencer
 
