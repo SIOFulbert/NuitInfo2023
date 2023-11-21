@@ -11,7 +11,7 @@ Le script Python mis à disposition propose deux fonctions :
 
 Un indice supplémentaire est fourni : le mot de passe est un prénom et ne suit pas des critères de complexité ou de longueur spécifiques. Pour réussir cette tâche, il est recommandé de consulter la documentation en ligne sur l'authentification d'un serveur MySQL/MariaDB.
 
-[Cliquez ici pour télécharger le fichier de capture CTFMaria-db.pcapng](medias/challenge4/CTFMaria-db.pcapng)
+[Cliquez ici pour télécharger le fichier de capture CTFMaria-db2.pcapng](medias/challenge4/CTFMaria-db.pcapng)
 
 [Cliquez ici pour télécharger le fichier de capture functions.py](medias/challenge4/functions.py)
 
