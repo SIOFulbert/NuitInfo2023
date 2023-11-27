@@ -1,8 +1,6 @@
-# Challenge 5
+# Challenge 5 
 
 ## Objectifs
 
-L'objectif consiste à récupérer les mots attendus pour débloquer ce challenge. Aucune connexion filaire autorisée :-)
-
-
+À partir du compte ltorvalds (mot de passe : Justforfun) présent sur le serveur mail et accessible en SSH, essayer d'obtenir un accès au compte root en exploitant les failles du système cible (une configuration trop permissive d'une commande système).
 
