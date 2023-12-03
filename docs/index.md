@@ -6,7 +6,12 @@ Cette page a été créée dans le cadre de la Nuit de l'Info 2023. Les étudian
 
 ## Pour commencer
 
-Ouvrez vos postes de travail avec le compte fourni par l'enseignant. Vous disposez d'une machine virtuelle Kali Linux.
+Ouvrez vos postes de travail avec le compte fourni par l'enseignant.
+
+Vos postes se trouvent dans un vlan dédié pour cette nuit de l'info2023
+
+
+ Vous disposez d'une machine virtuelle Kali Linux.
 
 | Équipe      | Adresse IP    |
 |-------------|---------------|
