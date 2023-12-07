@@ -19,6 +19,10 @@ Vous disposez d'une machine virtuelle Kali Linux présente dans le dossier `C:\O
 Les credentials de la VM sont :
 login : `etudiant` mot de passe:`etudiant_007`
 
+Le Proxy de l'établissement bloque les dépots et les URL de Kali.
+Si vous avez besoin de faire des téléchargement il faut utiliser explicitement un autre Proxy qui ne filtre pas Kali.
+**Proxy :** `172.16.118.250:3128`
+
 Vous pouvez l'importer dans VirtualBox et configurer une connexion `en mode pont (Bridge)`. L'interface réseau est configurée pour recevoir sa configuration dynamiquement via un serveur DHCP.
 
 Vous pouvez aussi utiliser votre **clé USB Bootable kali** en demarrant sur celle ci.
