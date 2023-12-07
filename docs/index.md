@@ -19,6 +19,9 @@ Vous disposez d'une machine virtuelle Kali Linux présente dans le dossier **C:\
 
 Vous pouvez l'importer dans VirtualBox et configurer une connexion **en mode pont (Bridge)**. L'interface réseau est configurée pour recevoir sa configuration dynamiquement via un serveur DHCP.
 
+Vous pouvez aussi utiliser votre **clé USB Bootable kali** en demarrant sur celle ci.
+Veillez à ne pas faire une installation sur le disque locale de la machine SVP.
+
 ## Lots
 
 À découvrir à la fin de la nuit.

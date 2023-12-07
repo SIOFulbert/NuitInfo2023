@@ -2,7 +2,9 @@
 
 ## Objectifs
 
-L'objectif consiste à récupérer le mot de passe d'une connexion à un serveur MariaDB à partir d'un extrait de capture réseau et d'un script Python fourni. La connexion se fait depuis un client sur le port 3306, sans sécurité via TLS par défaut.
+L'objectif consiste à récupérer le contenu présent dans une base de données sans connaissance des identifiants/mot de passe de connexion au serveur.
+
+Vous avez à votre disposition une capture de trame sur le réseau ainsi qu'un bout de script python implémentant deux fonctions qui peuvent vous être utiles.
 
 Le script Python mis à disposition propose deux fonctions :
 
