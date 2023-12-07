@@ -16,6 +16,8 @@ Vous travaillerez dans le réseau IP `172.16.78.0/24`.
 Un serveur DHCP vous attribuera une adresse dans la plage `[172.16.78.100 - 172.16.78.200]`.
 
 Vous disposez d'une machine virtuelle Kali Linux présente dans le dossier `C:\OVA\kali2023.ova`.
+Les credentials de la VM sont :
+login : `etudiant` mot de passe:`etudiant_007`
 
 Vous pouvez l'importer dans VirtualBox et configurer une connexion `en mode pont (Bridge)`. L'interface réseau est configurée pour recevoir sa configuration dynamiquement via un serveur DHCP.
 
